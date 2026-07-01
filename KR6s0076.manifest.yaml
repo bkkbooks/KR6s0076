@@ -1,0 +1,72 @@
+canonical_identifier: bkk:krp/KR6s0076/v1
+canonical_location: https://kanripo.org/bkk/KR6s0076/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 高上玉皇本行集經髓
+  identifiers:
+    alt_id:
+    - F29n1098
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F29/F29n1098.xml
+    old_id: F29n1098
+  edition:
+    short: bkk
+editions:
+- short: 房山
+  label: 房山
+  source_xml_id: wit.orig
+- short: F
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0076_000.yaml, hash: 'sha256:25fdfcfac0099cfb56f686a015d842b2d794063167b5a67dd76264107cb98c3a'}
+  - {seq: 1, filename: KR6s0076_001.yaml, hash: 'sha256:415412a7f6ce2e918e687a641d066014be809d3a1fc32636d375fbd5c14fe6ea'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0076_001.markers.yaml, hash: 'sha256:457749deb6558f8c376bdbf35f15bb4ae3efe068dd8bc1989921aa8387f42867'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0076_F_001-juan-start
+    span:
+    - body
+    - 0
+    - 1525
+  label: 高上玉皇本行集經髓
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0076_F_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 開經玄蘊呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0076_F_001-mulu-2
+    span:
+    - body
+    - 81
+    - 81
+  label: 太上洞玄靈寶高上玉皇本行集經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0076_F_001-mulu-3
+    span:
+    - body
+    - 1445
+    - 1445
+  label: 玉皇本行集經纂
+  type: mulu
+  level: 1
+hash: sha256:a4e07688ff1dcaf020f5d5116adb2bbf9918b39aeebd14b7422a859cdfec790b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

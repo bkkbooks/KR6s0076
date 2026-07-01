@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0076/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上玉皇本行集經髓
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F29/F29n1098.xml
+    old_id: F29n1098
+hash: sha256:25fdfcfac0099cfb56f686a015d842b2d794063167b5a67dd76264107cb98c3a
