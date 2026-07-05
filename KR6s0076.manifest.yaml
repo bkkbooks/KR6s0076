@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0076_000.yaml, hash: 'sha256:25fdfcfac0099cfb56f686a015d842b2d794063167b5a67dd76264107cb98c3a'}
-  - {seq: 1, filename: KR6s0076_001.yaml, hash: 'sha256:415412a7f6ce2e918e687a641d066014be809d3a1fc32636d375fbd5c14fe6ea'}
+  - {seq: 1, filename: KR6s0076_001.yaml, hash: 'sha256:a1d0ca29a39ad76fe9510bcbf27a6590ed9c4738efb177a063256fb657ca963c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0076_001.markers.yaml, hash: 'sha256:457749deb6558f8c376bdbf35f15bb4ae3efe068dd8bc1989921aa8387f42867'}
+  - {seq: 0, role: markers, filename: assets/KR6s0076_000.markers.yaml, hash: 'sha256:6257ee00f20e2f62116b32fa2e4ded98416ae7508e6720c5874d0f512be4f51a'}
+  - {seq: 1, role: markers, filename: assets/KR6s0076_001.markers.yaml, hash: 'sha256:d2873c895cd58b9374c4eb23b550f3b6d9cffe977015c3af35a68b51927e6ea9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -66,7 +67,4 @@ table_of_contents:
   label: 玉皇本行集經纂
   type: mulu
   level: 1
-hash: sha256:a4e07688ff1dcaf020f5d5116adb2bbf9918b39aeebd14b7422a859cdfec790b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1bf5461270a77e0f0d8398dc3b081120a4f585c22cc398df6ec268f69650c9c3
