@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0076/v1
 canonical_location: https://kanripo.org/bkk/KR6s0076/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 高上玉皇本行集經髓
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0076_000.yaml, hash: 'sha256:25fdfcfac0099cfb56f686a015d842b2d794063167b5a67dd76264107cb98c3a'}
-  - {seq: 1, filename: KR6s0076_001.yaml, hash: 'sha256:a1d0ca29a39ad76fe9510bcbf27a6590ed9c4738efb177a063256fb657ca963c'}
+  - {seq: 1, filename: KR6s0076_001.yaml, hash: 'sha256:b8fb2374b9b31cd2b134e7df4d066f4cb005756d41bcfe0ce86a65657d8b8f2b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0076_000.markers.yaml, hash: 'sha256:6257ee00f20e2f62116b32fa2e4ded98416ae7508e6720c5874d0f512be4f51a'}
-  - {seq: 1, role: markers, filename: assets/KR6s0076_001.markers.yaml, hash: 'sha256:d2873c895cd58b9374c4eb23b550f3b6d9cffe977015c3af35a68b51927e6ea9'}
+  - {seq: 1, role: markers, filename: assets/KR6s0076_001.markers.yaml, hash: 'sha256:10a2d5915b4be2951a631279fbbb8f4b5964b939e2a0a9eed9bd51e8a93f2da8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: 玉皇本行集經纂
   type: mulu
   level: 1
-hash: sha256:1bf5461270a77e0f0d8398dc3b081120a4f585c22cc398df6ec268f69650c9c3
+hash: sha256:9546e6f867a730085ec6ef1289d3c071e439236cdd2917e6265f70889af1bb3a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
